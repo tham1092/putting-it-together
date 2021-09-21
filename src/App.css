@@ -1,5 +1,14 @@
+div{
+  margin-left: 150px;
+  padding: 20px;
+}
+button{
+ border-style: none;
+  border-radius: 6px;
+  padding: 10px;
+}
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
